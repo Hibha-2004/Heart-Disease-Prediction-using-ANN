@@ -38,5 +38,5 @@ Artificial Neural Network (ANN) with:
 - Hidden layers
 - Output layer (Binary classification)
 
-## 🚀 Result
+## Result
 The model successfully predicts the presence of heart disease with good accuracy.
